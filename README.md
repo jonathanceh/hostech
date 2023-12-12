@@ -1,6 +1,9 @@
 # Hostech
 CRUD Products - Hostech
 
+Run `npm i` to install all dependencies
+
+Run `npm start` to build and run the project
 # API Documentation
 
 ## Authentication
